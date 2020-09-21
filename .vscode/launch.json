@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "configurations": [
+    {
+      "name": "Python: Project",
+      "type": "python",
+      "request": "launch",
+      "program": "main.py"
+    }
+  ]
+}
